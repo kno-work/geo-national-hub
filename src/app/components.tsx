@@ -60,7 +60,7 @@ export const HeroSearch: React.FC<{
           <div className="grid grid-cols-1 items-center gap-8 lg:grid-cols-12">
             <div className="lg:col-span-7">
               <h1 className="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 md:text-5xl lg:text-4xl">
-                National GEO Knowledge Hub
+                South Africa National GEO Knowledge Hub
               </h1>
               <p className="mb-6 text-lg text-gray-700">
                 Search and discover EO Applications and solutions tailored for your country.
